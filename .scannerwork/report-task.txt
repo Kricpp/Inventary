@@ -1,0 +1,6 @@
+projectKey=CALIDADDEPRODUCTODESW
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=CALIDADDEPRODUCTODESW
+ceTaskId=6f5d86db-e692-4ac7-af3c-1e804c747a43
+ceTaskUrl=http://localhost:9000/api/ce/task?id=6f5d86db-e692-4ac7-af3c-1e804c747a43
